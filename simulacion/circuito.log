@@ -1,4 +1,4 @@
-Circuit: * C:\Users\Titus\Desktop\tp c2\simulacion\circuito.asc
+Circuit: * C:\Users\Titus\Desktop\TP-Circuitos-2\simulacion\circuito.asc
 
 Warning: Multiple definitions of model "bc548b" Type: BJT
 Early termination of direct N-R iteration.
@@ -24,51 +24,51 @@ Gmin stepping failed
 
 Starting source stepping with srcstepmethod=0
 Source Step = 3.0303%
-Source Step = 18.75%
-Source Step = 20.6439%
-Source Step = 22.5379%
-Source Step = 24.4318%
-Source Step = 26.3258%
+Source Step = 16.4773%
+Source Step = 18.3712%
+Source Step = 20.2652%
+Source Step = 22.1591%
+Source Step = 24.053%
 vernier = 0.09375
-Source Step = 28.4091%
-Source Step = 31.25%
-Source Step = 34.0909%
-Source Step = 36.9318%
-Source Step = 39.7727%
+Source Step = 26.1364%
+Source Step = 28.9773%
+Source Step = 31.8182%
+Source Step = 34.6591%
+Source Step = 37.5%
 vernier = 0.140625
-Source Step = 42.7557%
-Source Step = 47.017%
-Source Step = 51.2784%
-Source Step = 55.5398%
-Source Step = 59.8011%
-Source Step = 64.0625%
+Source Step = 40.483%
+Source Step = 44.7443%
+Source Step = 49.0057%
+Source Step = 53.267%
+Source Step = 57.5284%
+Source Step = 61.7898%
 vernier = 0.210938
-Source Step = 70.4545%
-Source Step = 76.8466%
-Source Step = 83.2386%
-Source Step = 89.6307%
-Source Step = 96.0227%
+Source Step = 68.1818%
+Source Step = 74.5739%
+Source Step = 80.9659%
+Source Step = 87.358%
+Source Step = 93.75%
 vernier = 0.316406
 Source stepping succeeded in finding the operating point.
 
 Ignoring empty pin current: Ix(u2:11)
 Ignoring empty pin current: Ix(u2:11)
 
-Date: Tue Aug 22 13:21:17 2017
-Total elapsed time: 0.794 seconds.
+Date: Fri Aug 25 16:49:03 2017
+Total elapsed time: 0.716 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 4603
-traniter = 2090
-tranpoints = 1046
-accept = 1046
+totiter = 4944
+traniter = 2427
+tranpoints = 1214
+accept = 1214
 rejected = 0
 matrix size = 117
-fillins = 485
+fillins = 446
 solver = Normal
-Matrix Compiler1: 51.51 KB object code size  15.5/9.6/[4.4]
-Matrix Compiler2:    1317 opcodes  4.0/[4.0]/18.1
+Matrix Compiler1: 45.73 KB object code size  13.7/8.9/[3.8]
+Matrix Compiler2: off  [3.7]/4.5/17.9
 
 
