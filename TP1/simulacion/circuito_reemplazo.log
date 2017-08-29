@@ -1,0 +1,169 @@
+Circuit: * C:\Users\Titus\Desktop\TP-Circuitos-2\TP1\simulacion\circuito_reemplazo.asc
+
+Warning: Multiple definitions of model "bc548b" Type: BJT
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+Gmin = 5.5165
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+Gmin = 5.49501
+vernier = 0.00390625
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 5.50104
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 15.2936%
+Source Step = 15.767%
+Source Step = 16.2405%
+Source Step = 16.714%
+Source Step = 17.1875%
+vernier = 0.0234375
+Source Step = 17.584%
+vernier = 0.00146484
+Source Step = 17.6107%
+Source Step = 17.6551%
+Source Step = 17.6995%
+Source Step = 17.7438%
+Source Step = 17.7882%
+vernier = 0.00219727
+Source Step = 17.8348%
+Source Step = 17.9014%
+Source Step = 17.968%
+Source Step = 18.0346%
+Source Step = 18.1012%
+Source Step = 18.1678%
+vernier = 0.0032959
+Source Step = 18.2676%
+Source Step = 18.3675%
+Source Step = 18.4674%
+Source Step = 18.5673%
+Source Step = 18.6671%
+vernier = 0.00494385
+Source Step = 18.812%
+Source Step = 18.9618%
+Source Step = 19.1116%
+Source Step = 19.2614%
+Source Step = 19.4112%
+vernier = 0.00741577
+Source Step = 19.621%
+Source Step = 19.8457%
+Source Step = 20.0704%
+Source Step = 20.2951%
+Source Step = 20.5198%
+vernier = 0.0111237
+Source Step = 20.8232%
+Source Step = 21.1603%
+Source Step = 21.4974%
+Source Step = 21.8344%
+Source Step = 22.1715%
+vernier = 0.0166855
+Source Step = 22.6097%
+Source Step = 23.1154%
+Source Step = 23.621%
+Source Step = 24.1266%
+Source Step = 24.6322%
+vernier = 0.0250282
+Source Step = 25.2642%
+Source Step = 26.0227%
+Source Step = 26.7811%
+Source Step = 27.5395%
+Source Step = 28.298%
+vernier = 0.0375423
+Source Step = 29.2081%
+Source Step = 30.3457%
+Source Step = 31.4834%
+Source Step = 32.621%
+Source Step = 33.7587%
+vernier = 0.0563135
+Source Step = 35.067%
+Source Step = 36.7734%
+Source Step = 38.4799%
+Source Step = 40.1864%
+Source Step = 41.8928%
+vernier = 0.0844703
+Source Step = 43.77%
+Source Step = 46.3297%
+Source Step = 48.8894%
+Source Step = 51.4491%
+Source Step = 54.0088%
+vernier = 0.126705
+Source Step = 56.6965%
+Source Step = 60.536%
+Source Step = 64.3756%
+Source Step = 68.2151%
+Source Step = 72.0547%
+Source Step = 75.8943%
+vernier = 0.190058
+Source Step = 81.6536%
+Source Step = 87.4129%
+Source Step = 90.8775%
+Source Step = 90.9675%
+Source Step = 91.0575%
+Source Step = 91.1475%
+Source Step = 91.2375%
+Source Step = 91.3275%
+vernier = 0.00445449
+Source Step = 91.4535%
+Source Step = 91.5885%
+Source Step = 91.7234%
+Source Step = 91.8584%
+Source Step = 91.9934%
+vernier = 0.00668173
+Source Step = 92.1756%
+Source Step = 92.3781%
+Source Step = 92.5806%
+Source Step = 92.7831%
+Source Step = 92.9855%
+vernier = 0.0100226
+Source Step = 93.2488%
+Source Step = 93.5525%
+Source Step = 93.8562%
+Source Step = 94.1599%
+Source Step = 94.4636%
+vernier = 0.0150339
+Source Step = 94.8433%
+Source Step = 95.2988%
+Source Step = 95.7544%
+Source Step = 96.21%
+Source Step = 96.6656%
+vernier = 0.0225508
+Source Step = 97.2122%
+Source Step = 97.8956%
+Source Step = 98.579%
+Source Step = 99.2623%
+Source Step = 99.9457%
+Source stepping succeeded in finding the operating point.
+
+Ignoring empty pin current: Ix(u2:11)
+Ignoring empty pin current: Ix(u2:11)
+
+Date: Tue Aug 29 16:05:28 2017
+Total elapsed time: 1.636 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 8700
+traniter = 2406
+tranpoints = 1204
+accept = 1204
+rejected = 0
+matrix size = 116
+fillins = 456
+solver = Normal
+Matrix Compiler1: 48.62 KB object code size  15.0/9.8/[4.2]
+Matrix Compiler2:    1282 opcodes  4.1/[4.3]/18.7
+
+
