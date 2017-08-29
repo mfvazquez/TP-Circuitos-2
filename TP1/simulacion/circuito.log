@@ -1,6 +1,7 @@
-Circuit: * C:\Users\Titus\Desktop\TP-Circuitos-2\simulacion\circuito.asc
+Circuit: * C:\Users\Titus\Desktop\TP-Circuitos-2\TP1\simulacion\circuito.asc
 
 Warning: Multiple definitions of model "bc548b" Type: BJT
+C15: both pins shorted together -- ignoring.
 Early termination of direct N-R iteration.
 Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
 Starting Gmin stepping
@@ -24,51 +25,36 @@ Gmin stepping failed
 
 Starting source stepping with srcstepmethod=0
 Source Step = 3.0303%
-Source Step = 16.4773%
-Source Step = 18.3712%
-Source Step = 20.2652%
-Source Step = 22.1591%
-Source Step = 24.053%
-vernier = 0.09375
-Source Step = 26.1364%
-Source Step = 28.9773%
-Source Step = 31.8182%
-Source Step = 34.6591%
-Source Step = 37.5%
-vernier = 0.140625
-Source Step = 40.483%
-Source Step = 44.7443%
-Source Step = 49.0057%
-Source Step = 53.267%
-Source Step = 57.5284%
-Source Step = 61.7898%
-vernier = 0.210938
-Source Step = 68.1818%
-Source Step = 74.5739%
-Source Step = 80.9659%
-Source Step = 87.358%
-Source Step = 93.75%
-vernier = 0.316406
+Source Step = 18.9394%
+Source Step = 26.5152%
+Source Step = 34.0909%
+Source Step = 41.6667%
+Source Step = 49.2424%
+vernier = 0.375
+Source Step = 58.3333%
+Source Step = 69.697%
+Source Step = 81.0606%
+Source Step = 92.4242%
 Source stepping succeeded in finding the operating point.
 
 Ignoring empty pin current: Ix(u2:11)
 Ignoring empty pin current: Ix(u2:11)
 
-Date: Fri Aug 25 16:49:03 2017
-Total elapsed time: 0.716 seconds.
+Date: Tue Aug 29 13:10:05 2017
+Total elapsed time: 0.588 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 4944
-traniter = 2427
+totiter = 4504
+traniter = 2438
 tranpoints = 1214
 accept = 1214
 rejected = 0
-matrix size = 117
-fillins = 446
+matrix size = 116
+fillins = 418
 solver = Normal
-Matrix Compiler1: 45.73 KB object code size  13.7/8.9/[3.8]
-Matrix Compiler2: off  [3.7]/4.5/17.9
+Matrix Compiler1: 44.54 KB object code size  14.0/8.7/[3.6]
+Matrix Compiler2: off  [3.6]/4.0/18.8
 
 
