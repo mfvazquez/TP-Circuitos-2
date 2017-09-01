@@ -1,0 +1,46 @@
+
+10nF 5
+10µF 5  35V
+2.22µF
+1µF 5
+2nF 5
+100pF 5
+200pF 5
+100nF 5
+D1N4148	diode 3
+BC558B	bipolar transistor 6
+BC548B	bipolar transistor 6
+QBD135	bipolar transistor 6
+qmje15032	bipolar transistor 3  (sino q2sc4793 sino Qtip31c)
+Qmje2955t	bipolar transistor 3 
+
+LM7905	5
+TL431	3
+TL082	+ zocalo:  3
+
+5 borneras de 2 entradas (5mm de distancia entre pines)
+3 borneras de 3 entradas (5mm de distancia entre pines)
+
+Resistencia de 10W: 0.1
+
+Potenciometro 20k 2
+potenciometro 100k 2
+
+Resistencias de 1%:
+ 
+2.2K 5
+500 5
+10K 20
+1K 5
+100 5
+50K 5
+2K 5
+220 5
+8.2K 5
+2.7K 5
+107 5
+1 5
+
+hojas termosensibles
+acido ferrico
+placas virgen de 10x10 

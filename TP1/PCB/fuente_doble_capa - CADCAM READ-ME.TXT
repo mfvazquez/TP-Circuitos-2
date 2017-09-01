@@ -1,0 +1,39 @@
+LABCENTER PROTEUS TOOL INFORMATION FILE
+=======================================
+
+In case of difficulty, please e-mail support@labcenter.co.uk
+
+Tool set up for Proteus layout 'fuente_doble_capa.pdsprj'.
+CADCAM generated at 02:09:50 p.m. on miércoles, 30 de agosto de 2017.
+
+File List
+---------
+Top Copper              : fuente_doble_capa - CADCAM Top Copper.TXT
+Bottom Copper           : fuente_doble_capa - CADCAM Bottom Copper.TXT
+
+Photoplotter Setup
+------------------
+Format: RS274D, ASCII, 2.4, imperial, absolute, eob=*, LZO
+Notes:  D=Diameter, S=Side, W=Width, H=Height, C=Chamfer
+
+D10	CIRCLE  D=1.27mm                                                          DRAW
+D11	CIRCLE  D=3.05mm                                                          FLASH
+D12	CIRCLE  D=2.54mm                                                          FLASH
+D13	CIRCLE  D=1.78mm                                                          FLASH
+D14	CIRCLE  D=1.52mm                                                          FLASH
+D15	SQUARE  S=1.9mm                                                           FLASH
+D16	SQUARE  S=2.03mm                                                          FLASH
+D17	SQUARE  S=1.27mm                                                          FLASH
+D18	CIRCLE  D=1.27mm                                                          FLASH
+D19	SQUARE  S=2.54mm                                                          FLASH
+D70	CIRCLE  D=0.2mm                                                           DRAW
+D71	CIRCLE  D=2.54mm                                                          DRAW
+
+NC Drill Setup
+--------------
+Format: ASCII, 2.4, imperial, absolute, eob=<CR><LF>, no zero suppression.
+Notes:  Tool sizes are diameters. Layer sets are in brackets - 0=TOP, 15=BOTTOM, 1-14=INNER.
+
+
+
+[END OF FILE]
