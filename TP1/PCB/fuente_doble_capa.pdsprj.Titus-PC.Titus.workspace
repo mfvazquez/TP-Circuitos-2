@@ -6,11 +6,12 @@
   <WINDOW type="default" module="ARES"/>
   <WINDOW type="VIEW3D" module="VIEW3D">
    <camera>
-    <position x="295922880" y="-416786688" z="421974560"/>
-    <focus x="4884430" y="5156296" z="31484"/>
-    <up x="0" y="707106" z="707106"/>
+    <position x="5326808" y="-628000" z="11338011"/>
+    <focus x="5656514" y="5226717" z="-1099163"/>
+    <up x="-71608" y="903171" z="423264"/>
    </camera>
   </WINDOW>
+  <WINDOW type="default" module="DXP"/>
  </FRAME>
  <MODULE name="VSMDEBUG">
   <PWI/>
