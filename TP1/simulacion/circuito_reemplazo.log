@@ -1,7 +1,7 @@
 Circuit: * C:\Users\Titus\Desktop\TP-Circuitos-2\TP1\simulacion\circuito_reemplazo.asc
 
 Warning: Multiple definitions of model "bc548b" Type: BJT
-C15: both pins shorted together -- ignoring.
+WARNING: Less than two connections to node NC_01.  This node is used by R25.
 Early termination of direct N-R iteration.
 Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
 Starting Gmin stepping
@@ -9,46 +9,85 @@ Gmin = 10
 vernier = 0.5
 vernier = 0.25
 vernier = 0.125
-Gmin = 6.68666
+Gmin = 5.5165
 vernier = 0.0625
 vernier = 0.03125
 vernier = 0.015625
 vernier = 0.0078125
-Gmin = 6.72377
+Gmin = 5.49501
 vernier = 0.00390625
 vernier = 0.00195313
 vernier = 0.000976563
 vernier = 0.000488281
-Gmin = 6.72131
+Gmin = 5.50104
 Gmin = 0
 Gmin stepping failed
 
 Starting source stepping with srcstepmethod=0
 Source Step = 3.0303%
-Source Step = 33.3333%
-Source Step = 63.6364%
-Source Step = 93.9394%
+Source Step = 24.4318%
+vernier = 0.015625
+Source Step = 24.7159%
+Source Step = 25.1894%
+Source Step = 25.6629%
+Source Step = 26.1364%
+Source Step = 26.6098%
+vernier = 0.0234375
+Source Step = 27.2964%
+Source Step = 28.0066%
+Source Step = 28.7169%
+Source Step = 29.4271%
+Source Step = 30.1373%
+vernier = 0.0351563
+Source Step = 31.1316%
+Source Step = 32.197%
+Source Step = 33.2623%
+Source Step = 34.3277%
+Source Step = 35.393%
+vernier = 0.0527344
+Source Step = 36.8312%
+Source Step = 38.4292%
+Source Step = 40.0272%
+Source Step = 41.6252%
+Source Step = 43.2232%
+vernier = 0.0791016
+Source Step = 45.3007%
+Source Step = 47.6977%
+Source Step = 50.0947%
+Source Step = 52.4917%
+Source Step = 54.8887%
+vernier = 0.118652
+Source Step = 57.885%
+Source Step = 61.4805%
+Source Step = 65.0761%
+Source Step = 68.6716%
+Source Step = 72.2671%
+vernier = 0.177979
+Source Step = 76.5817%
+Source Step = 81.975%
+Source Step = 87.3683%
+Source Step = 92.7616%
+Source Step = 98.1549%
 Source stepping succeeded in finding the operating point.
 
 Ignoring empty pin current: Ix(u2:11)
 Ignoring empty pin current: Ix(u2:11)
 
-Date: Sat Sep 09 18:33:11 2017
-Total elapsed time: 1.179 seconds.
+Date: Fri Sep 29 00:06:21 2017
+Total elapsed time: 0.892 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 3930
-traniter = 2088
-tranpoints = 1045
-accept = 1045
-rejected = 0
-matrix size = 156
-fillins = 639
+totiter = 5465
+traniter = 2384
+tranpoints = 1158
+accept = 1131
+rejected = 27
+matrix size = 125
+fillins = 456
 solver = Normal
-Thread vector: 44.4/25.6[4] 28.2/9.8[4] 16.9/7.4[4] 1.9/3.7[1]  2592/500
-Matrix Compiler1: 71.51 KB object code size  21.5/16.3/[7.5]
-Matrix Compiler2: off  [5.6]/6.1/26.7
+Matrix Compiler1: 48.26 KB object code size  14.7/9.5/[4.3]
+Matrix Compiler2: off  [3.9]/4.5/18.4
 
 
