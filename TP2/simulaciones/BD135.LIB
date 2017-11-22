@@ -1,4 +1,4 @@
-.MODEL BD135 NPN( 
+.MODEL QBD135 NPN( 
 +     IS = 4.815E-14 
 +     NF = 0.9897 
 +     ISE = 1.389E-14 
