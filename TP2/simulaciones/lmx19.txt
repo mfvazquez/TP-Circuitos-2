@@ -15,12 +15,12 @@
 *    conditions (Vcc, Vicm, etc) are not reliable in any way.
 *-----------------------------------------------------------------------------------------
 * LM119/LM219/LM319 spice macromodel
-* CONNECTIONS : (corrected feb/17)
-* 2 NON-INVERTING INPUT
-* 1 INVERTING INPUT
-* 44 POSITIVE POWER SUPPLY
-* 55 NEGATIVE POWER SUPPLY
-* 33 OUTPUT
+* CONNECTIONS :
+* 1 NON-INVERTING INPUT
+* 2 INVERTING INPUT
+* 3 POSITIVE POWER SUPPLY
+* 4 NEGATIVE POWER SUPPLY
+* 5 OUTPUT
 *
 **********************************************************
 .SUBCKT LMx19 2 1 44 55 33
